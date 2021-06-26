@@ -20,7 +20,7 @@ namespace BookMan.Mvc
         {
             Configuration = configuration;
         }
-        public const string CookieScheme = "CookieAuthenticationDefaults.AuthenticationScheme";
+        //public const string CookieScheme = "CookieAuthenticationDefaults.AuthenticationScheme";
 
         public IConfiguration Configuration { get; }
 

@@ -28,4 +28,11 @@
     <Publisher>Moscow</Publisher>
     <Year>2020</Year>
   </Book>
+  <Book>
+    <Id>6</Id>
+    <Name>truong</Name>
+    <Authors>truong</Authors>
+    <Publisher>truong</Publisher>
+    <Year>2021</Year>
+  </Book>
 </ArrayOfBook>

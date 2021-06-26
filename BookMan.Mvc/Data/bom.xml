@@ -1,13 +1,6 @@
 <?xml version="1.0"?>
 <ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Book>
-    <Id>1</Id>
-    <Name>ASP.NET Core for dummy</Name>
-    <Authors>Trump D.</Authors>
-    <Publisher>Washington</Publisher>
-    <Year>2020</Year>
-  </Book>
-  <Book>
     <Id>2</Id>
     <Name>Pro ASP.NET Core</Name>
     <Authors>Putin V.</Authors>
@@ -34,5 +27,12 @@
     <Authors>Yelstin B.</Authors>
     <Publisher>Moscow</Publisher>
     <Year>2020</Year>
+  </Book>
+  <Book>
+    <Id>6</Id>
+    <Name>bomfasfasdfsad</Name>
+    <Authors>bom</Authors>
+    <Publisher>bom</Publisher>
+    <Year>2021</Year>
   </Book>
 </ArrayOfBook>
